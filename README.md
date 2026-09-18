@@ -58,11 +58,11 @@ The datasets were compared based on their relevance to the Madaraka Estate proje
 ```text
 SemProject_MLEngine/
 │
-├── Dataset_Exploration.ipynb
+├── NYC311_Exploration.ipynb
 └── README.md
 ```
 
-### `Dataset_Exploration.ipynb`
+### `NYC311_Exploration.ipynb`
 
 This notebook contains the dataset exploration work, including:
 
